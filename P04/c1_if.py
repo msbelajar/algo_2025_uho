@@ -1,4 +1,4 @@
-nilai = 75
+nilai = 50
 
 #dalam sebaris
 if nilai>50: print("lulus") 
